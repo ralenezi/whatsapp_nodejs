@@ -1,0 +1,43 @@
+{
+  "name": "whatsapp_adhkar",
+  "version": "1.2.3",
+  "description": "Send bulk messages in WhatsApp",
+  "type": "module",
+  "main": "index.js",
+  "author": {
+    "name": "Ryan Almalki",
+    "email": "rn0xx711@gmail.com",
+    "url": "https://github.com/rn0x"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.32.17",
+    "figlet": "^1.5.2",
+    "fs-extra": "^10.0.0",
+    "line-reader": "^0.4.0",
+    "moment-timezone": "^0.5.34"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rn0x/whatsapp_adhkar.git"
+  },
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "baileys",
+    "islam",
+    "islamyat",
+    "اسلام",
+    "اسلاميات",
+    "بوت",
+    "adhkar"
+  ],
+  "bugs": {
+    "url": "https://github.com/rn0x/whatsapp_adhkar/issues"
+  },
+  "homepage": "https://github.com/rn0x/whatsapp_adhkar#readme"
+}
